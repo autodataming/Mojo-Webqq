@@ -28,6 +28,7 @@ Mojo-Webqq v1.7.4 [![Build Status](https://travis-ci.org/sjdy521/Mojo-Webqq.svg?
   PostImgVerifycode    0        已发布      sjdy521       登录验证码发送到邮箱实现远程登录
   PostQRcode           0        已发布      sjdy521       登录二维码发送到邮箱实现远程扫码
   SmartReply           0        已发布      sjdy521       智能聊天回复
+  ReadQR               0        已发布      autolife     尝试直接打开二维码图片
 ```
 ###效果展示
 ```
